@@ -21,3 +21,14 @@ By default, both of your EC2 virtual servers are located in the same local virtu
 User name and Database created
 
 ![TEXT3](https://user-images.githubusercontent.com/108102087/184027871-8f481c5e-fdb9-4043-be5f-88ec4ea8a322.PNG)
+
+You might need to configure MySQL server to allow connections from remote hosts.
+
+
+From mysql client Linux Server connect remotely to mysql server Database Engine without using SSH. You must use the mysql utility to perform this action.
+
+![text4](https://user-images.githubusercontent.com/108102087/184030873-99685e15-5c9b-4cd4-8a28-871d97096f2b.PNG)
+
+Check that you have successfully connected to a remote MySQL server and can perform SQL queries:
+
+![text5](https://user-images.githubusercontent.com/108102087/184032032-a22fbb6d-935e-4d2e-a571-d7f76fa94762.PNG)
